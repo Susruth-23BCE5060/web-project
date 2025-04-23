@@ -29,7 +29,11 @@ We initially intended to deploy this application using Firebase Hosting, but due
 ➡️ You can still explore the complete source code and run it locally by cloning this repository.
 
 🛠️ How to Run Locally
+
 git clone https://github.com/Susruth-23BCE5060/web-project.git
+
 cd web-project
+
 npm install
+
 npm run dev
