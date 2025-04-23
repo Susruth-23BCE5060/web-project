@@ -6,6 +6,7 @@ This is a React-based frontend project simulating a minimal e-commerce website. 
 👥 Team Members
 
 This project was developed by a team of three students:
+
 	•	P Susruth - 23BCE5060
  
 	•	N Bhumica - 23BCE1300
